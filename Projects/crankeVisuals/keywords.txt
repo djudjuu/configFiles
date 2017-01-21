@@ -1,4 +1,0 @@
-Beam	KEYWORD1
-move	KEYWORD2
-toggle	KEYWORD2
-mapSeg	KEYWORD2
